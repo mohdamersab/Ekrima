@@ -1,0 +1,26 @@
+body {
+height: 4000px;
+
+}
+.all {
+  position: relative;
+  position: fixed;
+}
+.pic {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.img {
+  width: 100%;
+}
+.im {
+  width: 4300px;
+  height: 4300px;
+}
+.left {
+  width: 0;
+}
+.right {
+  width: 0;
+}

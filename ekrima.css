@@ -1,0 +1,56 @@
+body {
+  font-family: Roboto;
+}
+.alll {
+  font-family: Roboto;
+}
+.header {
+  position: absolute;
+  position: fixed;
+  top: 0;
+  background-color: rgb(214, 213, 138);
+  font-weight: bold;
+  height: 300px;
+  width: 4300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+
+
+}
+.left {
+  margin-left: 10px;
+  margin-right: 100px;
+}
+.mid {
+  font-size: 120px;
+  margin-left: 200px;
+}
+.logo {
+  width: 250px;
+  border-radius: 800px;
+}
+.list {
+  position: absolute;
+  top: 500px;
+  left: 0;
+  width: 4000px;
+  margin-left: 1500px;
+  font-family: Roboto;
+
+}
+.offlist {
+  position: absolute;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size: 100px;
+  width: 3000px;
+  margin-left: 0;
+}
+.png {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0);
+  width: 2000px;
+  margin-left: -1000px;
+}
