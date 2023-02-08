@@ -4,7 +4,6 @@ height: 4000px;
 }
 .all {
   position: relative;
-  position: fixed;
 }
 .pic {
   display: flex;
